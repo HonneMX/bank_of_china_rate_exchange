@@ -1,0 +1,6 @@
+2025-04-10 12:56:35,094 - INFO - Fetching USD exchange rate from Bank of China...
+2025-04-10 12:56:36,609 - INFO - USD Exchange Rate (Middle Rate): 7.209199999999999
+2025-04-10 12:56:36,610 - INFO - Exchange rate data saved to data/exchange_rates.csv
+2025-04-10 12:56:43,321 - INFO - Fetching USD exchange rate from Bank of China...
+2025-04-10 12:56:44,436 - INFO - USD Exchange Rate (Middle Rate): 7.209199999999999
+2025-04-10 12:56:44,437 - INFO - Exchange rate data saved to data/exchange_rates.csv
